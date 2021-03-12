@@ -8,8 +8,8 @@ body{ background-color:black;}
     background-color:white;}
 
 .encabezado{width: 690px; height:70px; padding-left: 10px; padding-top: 10px; background-color: white; position: relative; overflow:auto;}
-.logo{position: absolute; left:10px; padding-top: 20px; }
-.titulo{position: absolute;left:30px; }
+.logo{position: absolute; left:10px; }
+.titulo{position: absolute;left:50px; }
 .menu{float:right; padding-top: 10px; padding-right: 20px; }
 
 .picture{background-color: white; width: 700px;height:240px; }
