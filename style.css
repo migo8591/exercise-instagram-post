@@ -1,0 +1,23 @@
+*{	margin:0px;	padding:0px;}
+body{ background-color:black;}
+.main{margin: auto;
+	margin-top:50px;
+	margin-bottom: 50px; 
+	width: 700px;
+	height: 500px;
+    background-color:white;}
+
+.encabezado{width: 690px; height:70px; padding-left: 10px; padding-top: 10px; background-color: white; position: relative; overflow:auto;}
+.logo{position: absolute; left:10px; padding-top: 20px; }
+.titulo{position: absolute;left:30px; }
+.menu{float:right; padding-top: 10px; padding-right: 20px; }
+
+.picture{background-color: white; width: 700px;height:240px; }
+.footer{background-color: white; width:680px; height:200px; 
+padding-left: 10px; padding-top: 10px; padding-right: 10px;}
+div.picture img{
+	width:700px; height:230px;
+}
+#icono3{float:right; padding-right: 20px; padding-bottom: 25px;}
+.footer3{padding-top: 10px; padding-bottom: 10px;}
+.footer2{padding-top: 10px; padding-bottom: 10px;}
